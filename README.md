@@ -15,6 +15,7 @@ GOALS:
 
 Files:
 1.framingham.csv: The dataset used
+
 2.heart_prediction.pynb: Jupyter noteboom to show data vizualization, to train and test the model along with customized input.
 
 ANYTHING ELSE:	
